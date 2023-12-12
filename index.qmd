@@ -1,5 +1,9 @@
 ---
 title: "Bipolar Risk"
+image: Atardecer3.jpg
+about: jolla
+image-shape: round
+image-width: 15em
 ---
 
 Add text here. 
