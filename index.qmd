@@ -1,7 +1,7 @@
 ---
 title: "Bipolar Risk"
 image: Atardecer3.jpg
-about: jolla
+about: trestles
 image-shape: round
 image-width: 15em
 ---
