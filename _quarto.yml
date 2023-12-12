@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "LuciaNico.github.io"
+  title: "Bipolar Risk"
   navbar:
     left:
       - href: index.qmd
