@@ -1,9 +1,23 @@
 ---
-title: "Bipolar Risk"
+title: "The Experience of Serious Risk-Taking Behaviors in Bipolar Disorders"
 image: Atardecer3.jpg
 about: trestles
 image-shape: round
 image-width: 15em
 ---
 
-Add text here. 
+With this project we aim to:
+
+\- [Consolidate a research consortium]{.underline} to support and externally fund applications for *co-designing module interventions for capacity building to manage risk behaviors in daily life for people with a diagnosis of bipolar disorder*.
+
+\- [Develop a network]{.underline} on risk behavior management in daily life that will provide strategic links with health providers (e.g., NHS), third sector organisations (e.g., Bipolar UK) and other relevant stakeholders.
+
+\- [Develop knowledge exchange and research strategic initiatives]{.underline}, such as development of resources to support current community support activities.
+
+## Who we are?
+
+Guillermo Perez Algorta has been leading on a line of research on the topic of risk behavior management in daily life in people with a diagnosis of bipolar disorder.
+
+DD, Bipolar Edinburgh,
+
+ET, an expert leading on community-based health research projects through co-design methodologies.
