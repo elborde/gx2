@@ -1,0 +1,6 @@
+---
+title: "White Paper"
+editor: visual
+---
+
+Add text from paper
