@@ -3,11 +3,6 @@ project:
   output-dir: docs
 
 website:
-  comments: 
-    utterances:
-      repo: quarto-dev/quarto-web
-      theme: github-light
-      
   title: "Add name here"
   navbar:
     left:
