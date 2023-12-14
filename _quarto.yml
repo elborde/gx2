@@ -5,7 +5,7 @@ project:
 website:
   comments: 
     utterances: 
-      repo: gpawebsite-dev/gpawebsite-docs
+      repo: gpawebsite-docs
       theme: dark-blue
   title: "Add name here"
   navbar:

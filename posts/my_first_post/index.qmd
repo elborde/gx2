@@ -5,7 +5,7 @@ date: "2023-12-14"
 categories: [goals,general]
 comments: 
     utterances: 
-      repo: gpawebsite-dev/gpawebsite-docs
+      repo: gpawebsite-docs
       theme: dark-blue
 ---
 
