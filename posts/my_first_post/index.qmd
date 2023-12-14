@@ -28,3 +28,12 @@ If you are using the visual editor in Rstudio you can drag images onto the edito
 ![](thumbnail.jpg)
 
 The first image in a blog post will also be used on the listings page.
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
