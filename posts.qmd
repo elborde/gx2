@@ -1,6 +1,6 @@
 ---
-title: "Bipolar Risk Blog"
-author: Bipolar Risk
+title: "GPA Blog"
+author: GPA
 editor: visual
 listing:
   contents: posts
