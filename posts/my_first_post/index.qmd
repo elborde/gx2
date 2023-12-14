@@ -3,10 +3,11 @@ title: "My First post"
 author: "GPA"
 date: "2023-12-14"
 categories: [goals,general]
-comments: 
-    utterances: 
-      repo: gpawebsite-docs
-      theme: dark-blue
+website:
+  comments: 
+    utterances:
+      repo: quarto-dev/quarto-web
+      theme: github-light
 ---
 
 This is an example first post. Whatever you write here will appear inside your post.
@@ -30,7 +31,7 @@ If you are using the visual editor in Rstudio you can drag images onto the edito
 The first image in a blog post will also be used on the listings page.
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="[LuciaNico/gpawebsite]"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
