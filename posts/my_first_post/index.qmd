@@ -3,6 +3,10 @@ title: "My First post"
 author: "GPA"
 date: "2023-12-14"
 categories: [goals,general]
+comments: 
+    utterances: 
+      repo: quarto-dev/quarto-docs
+      theme: dark-blue
 ---
 
 This is an example first post. Whatever you write here will appear inside your post.

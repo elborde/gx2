@@ -3,6 +3,10 @@ project:
   output-dir: docs
 
 website:
+  comments: 
+    utterances: 
+      repo: quarto-dev/quarto-docs
+      theme: dark-blue
   title: "Add name here"
   navbar:
     left:
