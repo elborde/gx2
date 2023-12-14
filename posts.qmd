@@ -1,7 +1,6 @@
 ---
 title: "Bipolar Risk Blog"
-subtitle:
-author:
+author: Bipolar Risk
 editor: visual
 listing:
   contents: posts
