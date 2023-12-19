@@ -18,7 +18,7 @@ Hacer ruido ayuda. He visto gente hacer colgantes con botellas de vidrio. Obvio 
 Si hay más de uno, es bueno para hacer turnos. Parece que lo que buscan es desgastarte. Te cansan, te juegan a largo plazo.  
 
  
-![](camp.png) {width=20%}
+![](camp.png) {fig-align="right "width=20%}
 
 
 
