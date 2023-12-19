@@ -1,28 +1,25 @@
 ---
-title: "My First post"
+title: "Sobre las ideas negativas"
 author: "GPA"
 date: "2023-12-14"
-categories: [goals,general]
+categories: [general,spanish, mental health]
 ---
 
-This is an example first post. Whatever you write here will appear inside your post.
+Están ahí. Cerca. Te das vuelta y te tiran el tarazcón.  
+No hay mucho para hacer. Esperar que se alejen, que se vallan por donde vinieron.  
 
-It is possible to write lists:
+Predadores con hambre. 
+Pegás un grito, un gesto con la mano, y sí, se alejan por un rato. Se hechan cerca y  te miran. 
+Al rato, como si nada, arrancan de nuevo tratando de garronear, de meter el tarazcon.  
 
-1.  One
-2.  Two
-3.  Three
+Si hay fuego, tenes que mantenerlo y no alejarte mucho.  
 
-And make headers
+Hacer ruido ayuda. He visto gente hacer colgantes con botellas de vidrio. Obvio que necesitas viento.  
 
-## This is a second level heading
+Si hay más de uno, es bueno para hacer turnos. Parece que lo que buscan es desgastarte. Te cansan, te juegan a largo plazo.  
 
-You can include images, and many other kinds of content.
+ 
+![](camp.png)
 
-If you are using the visual editor in Rstudio you can drag images onto the editor to insert them into the document. Otherwise, you need to place the image inside of the folder for this post, and then you can insert it to your post directly, like this:
-
-![](thumbnail.jpg)
-
-The first image in a blog post will also be used on the listings page.
 
 
