@@ -1,12 +1,12 @@
 ---
-title: "Add title here"
-image: Atardecer3.jpg
+title: "Gx2"
+image: profile_pic.jpg
 about: trestles
 image-shape: round
 image-width: 15em
 ---
 
-Add website description here
+Este es un espacio de colaboración...
 
 
 
@@ -15,6 +15,6 @@ Add website description here
 ---
 **Disclaimer** 
 
-The content on this website is my sole responsibility and does not reflect the views of any other individual or organization. I make no claims about the accuracy or completeness of the information provided. Use the website at your own risk. I am not liable for any damages arising from your use of this website.
+The content on this website is our sole responsibility and does not reflect the views of any other individual or organization. We make no claims about the accuracy or completeness of the information provided. Use the website at your own risk. We are not liable for any damages arising from your use of this website.
 
-Some content on this website has been generated using artificial intelligence (AI) tools. While the AI assists in creating content, the final output is always subject to supervision and refinement by the author. I strive to ensure accuracy and quality in all my content through careful oversight and human involvement.
+Some content on this website has been generated using artificial intelligence (AI) tools. While the AI assists in creating content, the final output is always subject to supervision and refinement by the authors. We strive to ensure accuracy and quality in all our content through careful oversight and human involvement.
