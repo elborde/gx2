@@ -6,7 +6,9 @@ image-shape: round
 image-width: 15em
 ---
 
-Este es un espacio de colaboración...
+#### El objetivo de Gx2 es contribuir con el desarrollo académico y de investigación en salud mental.
+#### Gx2 busca destilar y acercar ideas que estimulen la reflexión y la acción, fomentando espacios transparentes de intercambio.#### 
+
 
 
 
